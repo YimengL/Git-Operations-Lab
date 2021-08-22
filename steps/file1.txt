@@ -1,4 +1,9 @@
 Case 1:
+
+*****
+Changes in Branch 1: LALALA
+*****
+
 * Create in main
 * Create branch1 & branch2
 * branch1 modify it
