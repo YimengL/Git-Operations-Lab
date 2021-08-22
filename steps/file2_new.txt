@@ -1,4 +1,9 @@
 Case 2:
+
+*****
+Changes from Branch 2: 2HelloHelloHello
+*****
+
 * Create in main
 * Create branch1 & branch2
 * branch1: rename file name from file2.txt -> file2_new.txt
