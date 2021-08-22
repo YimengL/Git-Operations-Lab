@@ -1,0 +1,6 @@
+Case 1:
+* Create in main
+* Create branch1 & branch2
+* branch1 modify it
+* merge
+* branch2 modify again

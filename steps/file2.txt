@@ -1,0 +1,6 @@
+Case 2:
+* Create in main
+* Create branch1 & branch2
+* branch1: rename file name from file2.txt -> file2_new.txt
+* merge branch1
+* branch2: modify content, e.g. add 10 Hello
